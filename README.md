@@ -125,10 +125,18 @@ class AdityaDharDwivedi:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya152602&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+
+<img src="https://img.shields.io/badge/2026_Contributions-361%2B-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest_Streak-45_Days-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="Longest Streak" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya152602&query=%24.public_repos&label=Public+Repos&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Public Repos" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI_Products_Built-3%2B-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Projects" />
+
 </div>
 
 ---
