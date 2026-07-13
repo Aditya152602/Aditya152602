@@ -3,9 +3,9 @@
 <!-- ═══════════════════════ PREMIUM HEADER ═══════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1a1b27,70:0f3460,100:533483&height=240&section=header&text=Aditya%20Dhar%20Dwivedi&fontSize=56&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Software%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20Work&descAlignY=62&descSize=20&descColor=c792ea" />
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<!-- ═══════════════════════ TYPING ANIMATION (emoji-free URL) ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7C3AED&background=00000000&center=true&vCenter=true&random=false&width=750&height=55&lines=🤖+Building+AI-Powered+Products;💻+Full+Stack+%7C+Python+%7C+Java+%7C+Django;🔥+365%2B+Contributions+in+2026;🚀+From+Idea+to+Deployed+Product;🌱+Driven+by+Curiosity%2C+Powered+by+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=750&height=55&lines=Building+AI-Powered+Products;Full+Stack+Dev+%7C+Python+%7C+Java+%7C+Django;365%2B+Contributions+in+2026;From+Idea+to+Deployed+Product;Driven+by+Curiosity%2C+Powered+by+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya152602&layout=donut&theme=tokyonight&hide_border=true&langs_count=7&title_color=7C3AED&icon_color=7C3AED" alt="Top languages" />
+<img align="right" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya152602&theme=tokyonight" alt="Most used languages" />
 
 ### 🧑‍💻 `whoami`
 
@@ -37,8 +37,8 @@ class AdityaDharDwivedi:
     """
     name       = "Aditya Dhar Dwivedi"
     role       = "Software Developer"
-    location   = "India 🇮🇳"
-    mindset    = "Build → Ship → Learn → Repeat"
+    location   = "India"
+    mindset    = "Build -> Ship -> Learn -> Repeat"
 
     tech_stack = {
         "languages" : ["Python", "Java", "JavaScript", "HTML/CSS"],
@@ -48,13 +48,13 @@ class AdityaDharDwivedi:
     }
 
     building_now = [
-        "🤖  Interview Trainer  — AI-powered prep tool",
-        "🛤️  SkillPath AI       — personalized AI roadmaps",
-        "🥗  Nutrition Agent    — AI-driven diet planner",
+        "Interview Trainer  -- AI-powered prep tool",
+        "SkillPath AI       -- personalized AI roadmaps",
+        "Nutrition Agent    -- AI-driven diet planner",
     ]
 
     open_for   = ["Full-Time Roles", "Internships", "Freelance"]
-    fun_fact   = "365 contributions in 2026 & still pushing 🔥"
+    fun_fact   = "365 contributions in 2026 & still pushing"
 ```
 
 <br clear="right"/>
@@ -115,8 +115,12 @@ class AdityaDharDwivedi:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Aditya152602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true" alt="GitHub stats" />
-  <img height="185em" src="https://streak-stats.demolab.com/?user=Aditya152602&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub streak" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya152602&theme=tokyonight" alt="Profile details card" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya152602&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Aditya152602&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub streak" />
+
 </div>
 
 ---
@@ -124,7 +128,7 @@ class AdityaDharDwivedi:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya152602&theme=tokyonight&no-frame=true&row=1&column=8&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya152602&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 </div>
 
 ---
@@ -140,20 +144,42 @@ class AdityaDharDwivedi:
 ## 🌟 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Aditya152602/Interview-trainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya152602&repo=Interview-trainer&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="Interview Trainer" />
-</a>
-<a href="https://github.com/Aditya152602/SkillPath-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya152602&repo=SkillPath-Ai&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="SkillPath AI" />
-</a>
-<a href="https://github.com/Aditya152602/flatfinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya152602&repo=flatfinder&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="FlatFinder" />
-</a>
-<a href="https://github.com/Aditya152602/nutrition-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya152602&repo=nutrition-agent&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" alt="Nutrition Agent" />
-</a>
-
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Aditya152602/Interview-trainer"><b>🤖 Interview Trainer</b></a><br/>
+<sub>AI mock-interview simulator with personalized feedback</sub><br/><br/>
+<img src="https://img.shields.io/github/languages/top/Aditya152602/Interview-trainer?style=flat-square&labelColor=1a1b27&color=7C3AED&label=Language" />
+<img src="https://img.shields.io/github/last-commit/Aditya152602/Interview-trainer?style=flat-square&labelColor=1a1b27&color=7C3AED" /><br/><br/>
+<a href="https://github.com/Aditya152602/Interview-trainer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Aditya152602/SkillPath-Ai"><b>🛤️ SkillPath AI</b></a><br/>
+<sub>AI-curated personalized skill-learning roadmaps</sub><br/><br/>
+<img src="https://img.shields.io/github/languages/top/Aditya152602/SkillPath-Ai?style=flat-square&labelColor=1a1b27&color=7C3AED&label=Language" />
+<img src="https://img.shields.io/github/last-commit/Aditya152602/SkillPath-Ai?style=flat-square&labelColor=1a1b27&color=7C3AED" /><br/><br/>
+<a href="https://skill-path-ai-sand.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/Aditya152602/SkillPath-Ai"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Aditya152602/flatfinder"><b>🏠 FlatFinder</b></a><br/>
+<sub>Django-powered flat and apartment discovery platform</sub><br/><br/>
+<img src="https://img.shields.io/github/languages/top/Aditya152602/flatfinder?style=flat-square&labelColor=1a1b27&color=7C3AED&label=Language" />
+<img src="https://img.shields.io/github/last-commit/Aditya152602/flatfinder?style=flat-square&labelColor=1a1b27&color=7C3AED" /><br/><br/>
+<a href="https://aditya2615.pythonanywhere.com"><img src="https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=python&logoColor=white" /></a>
+<a href="https://github.com/Aditya152602/flatfinder"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Aditya152602/nutrition-agent"><b>🥗 Nutrition Agent</b></a><br/>
+<sub>Conversational AI agent for smart nutrition tracking</sub><br/><br/>
+<img src="https://img.shields.io/github/languages/top/Aditya152602/nutrition-agent?style=flat-square&labelColor=1a1b27&color=7C3AED&label=Language" />
+<img src="https://img.shields.io/github/last-commit/Aditya152602/nutrition-agent?style=flat-square&labelColor=1a1b27&color=7C3AED" /><br/><br/>
+<a href="https://github.com/Aditya152602/nutrition-agent"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -185,11 +211,11 @@ class AdityaDharDwivedi:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="640" alt="Dev quote" />
 
-<br/><br/>
+<br/>
 
 ---
 
-<sub>⭐ From <a href="https://github.com/Aditya152602">Aditya152602</a> — If you find my work useful, drop a ⭐ on a repo!</sub>
+<sub>From <a href="https://github.com/Aditya152602">Aditya152602</a> — Drop a star on any repo you like!</sub>
 
 <br/>
 
