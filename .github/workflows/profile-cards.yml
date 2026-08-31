@@ -1,10 +1,10 @@
 name: Update profile cards
-
 on:
+  push:
+    branches: [ "main" ]
   schedule:
     - cron: "30 4 * * *"   # once a day (04:30 UTC) — edit to taste
-  workflow_dispatch:        # lets you trigger a run by hand from the Actions tab
-
+  workflow_dispatch:       # lets you trigger a run by hand from the Actions tab
 permissions:
   contents: write
 
