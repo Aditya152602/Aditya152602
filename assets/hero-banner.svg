@@ -1,0 +1,93 @@
+<svg viewBox="0 0 1200 320" width="1200" height="320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aditya Dhar Dwivedi — AI/ML Engineer, Agentic Systems, Geospatial AI">
+  <title>Aditya Dhar Dwivedi — AI/ML Engineer, Agentic Systems, Geospatial AI</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E14"/>
+      <stop offset="55%" stop-color="#0D1420"/>
+      <stop offset="100%" stop-color="#0A1118"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8A854"/>
+      <stop offset="100%" stop-color="#4FD1C5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#E8A854" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#E8A854" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      <![CDATA[
+        .disp   { font-family:'Space Grotesk','Sora','Segoe UI',sans-serif; }
+        .mono   { font-family:'JetBrains Mono','Fira Code','Consolas',monospace; }
+        .name    { fill:#E9EDF4; }
+        .tagline { fill:#8FF0E4; }
+        .role    { fill:#8B95A7; }
+        .sig     { fill:#4A5877; }
+        .cursor      { animation: blink 1.1s steps(1) infinite; }
+        @keyframes blink { 0%,45% { opacity:1;} 46%,100% { opacity:0;} }
+        .contour     { opacity:0.32; }
+        .pulse-a     { stroke-dasharray:6 220; animation: travel 5.5s linear infinite; }
+        .pulse-b     { stroke-dasharray:5 260; animation: travel 7s linear infinite reverse; }
+        @keyframes travel { to { stroke-dashoffset:-520; } }
+        .node        { fill:#4FD1C5; opacity:0.75; }
+        .node.warm   { fill:#E8A854; }
+        .node-pulse  { animation: pulseR 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+        @keyframes pulseR { 0%,100% { opacity:0.55; transform:scale(1); } 50% { opacity:1; transform:scale(1.35); } }
+        @media (prefers-reduced-motion: reduce) {
+          .cursor, .pulse-a, .pulse-b, .node-pulse { animation: none; opacity:1; }
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bgGrad)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- topographic contour lines -->
+  <g class="contour" fill="none" stroke="#26334A" stroke-width="1.2">
+    <path d="M-20,58 C 200,18 380,98 600,54 S 1000,10 1220,66"/>
+    <path d="M-20,108 C 220,148 420,68 640,118 S 1020,158 1220,102"/>
+    <path d="M-20,246 C 240,206 460,270 680,224 S 1040,190 1220,238"/>
+    <path d="M-20,288 C 260,262 480,300 700,270 S 1000,246 1220,282"/>
+  </g>
+
+  <!-- agentic node network -->
+  <g stroke="#3A4A63" stroke-width="1">
+    <line x1="860" y1="60" x2="962" y2="102"/>
+    <line x1="962" y1="102" x2="918" y2="176"/>
+    <line x1="918" y1="176" x2="1042" y2="206"/>
+    <line x1="962" y1="102" x2="1084" y2="74"/>
+    <line x1="1084" y1="74" x2="1152" y2="136"/>
+    <line x1="918" y1="176" x2="818" y2="226"/>
+  </g>
+  <g stroke="#E8A854" stroke-width="1.6" fill="none" opacity="0.85">
+    <path class="pulse-a" d="M860,60 L962,102 L1084,74 L1152,136"/>
+  </g>
+  <g stroke="#4FD1C5" stroke-width="1.6" fill="none" opacity="0.85">
+    <path class="pulse-b" d="M962,102 L918,176 L1042,206"/>
+  </g>
+  <g>
+    <circle class="node warm node-pulse" cx="860" cy="60" r="4"/>
+    <circle class="node" cx="962" cy="102" r="4.5"/>
+    <circle class="node" cx="918" cy="176" r="4"/>
+    <circle class="node warm node-pulse" cx="1084" cy="74" r="4" style="animation-delay:1.1s"/>
+    <circle class="node" cx="1152" cy="136" r="3.5"/>
+    <circle class="node" cx="1042" cy="206" r="3.5"/>
+    <circle class="node warm node-pulse" cx="818" cy="226" r="3.5" style="animation-delay:2.1s"/>
+  </g>
+
+  <!-- name -->
+  <text x="70" y="140" class="disp name" font-size="54" font-weight="700" letter-spacing="0.5">ADITYA DHAR DWIVEDI</text>
+
+  <!-- tagline -->
+  <text x="72" y="182" class="mono tagline" font-size="21">AI/ML Engineer <tspan fill="#E8A854">·</tspan> Agentic Systems <tspan fill="#E8A854">·</tspan> Geospatial AI<tspan class="cursor" fill="#4FD1C5">▌</tspan></text>
+
+  <!-- animated underline -->
+  <rect x="72" y="200.5" width="340" height="3" rx="1.5" fill="url(#accentGrad)"/>
+
+  <!-- role / status line -->
+  <text x="72" y="236" class="mono role" font-size="14" letter-spacing="1">B.TECH CSE (AI &amp; ML) · AKTU · CLASS OF 2027 · LUCKNOW, INDIA</text>
+
+  <!-- geospatial signature -->
+  <text x="1128" y="292" text-anchor="end" class="mono sig" font-size="12" letter-spacing="1">26.8467°N · 80.9462°E</text>
+  <text x="72" y="292" class="mono sig" font-size="12" letter-spacing="1">whoami --verbose</text>
+</svg>
