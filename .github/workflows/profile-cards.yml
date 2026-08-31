@@ -19,6 +19,8 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate GitHub stats card
+        id: stats
+        continue-on-error: true
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -27,6 +29,8 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top languages card
+        id: top_langs
+        continue-on-error: true
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
@@ -40,15 +44,30 @@ jobs:
           python-version: "3.12"
 
       - name: Generate contribution timeline
+        id: activity_graph
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN }}
           GH_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate_activity_graph.py
 
-      - name: Commit and push if changed
+      # Runs even if a step above failed, so whichever cards DID generate
+      # still make it into the repo instead of all-or-nothing.
+      - name: Commit and push whatever succeeded
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update profile cards" || echo "Nothing to commit"
           git push
+
+      # The job still shows red if something failed, so it doesn't go
+      # unnoticed, even though the working cards were already pushed above.
+      - name: Fail the run if any card had a problem
+        if: steps.stats.outcome == 'failure' || steps.top_langs.outcome == 'failure' || steps.activity_graph.outcome == 'failure'
+        run: |
+          echo "stats: ${{ steps.stats.outcome }}"
+          echo "top-langs: ${{ steps.top_langs.outcome }}"
+          echo "activity-graph: ${{ steps.activity_graph.outcome }}"
+          exit 1
