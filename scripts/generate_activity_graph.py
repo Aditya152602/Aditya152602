@@ -21,8 +21,8 @@ import sys
 import urllib.error
 import urllib.request
 
-USERNAME = os.environ["GH_USERNAME"]
-TOKEN = os.environ["GH_TOKEN"]
+USERNAME = os.environ["GH_USERNAME"].strip()
+TOKEN = os.environ["GH_TOKEN"].strip()  # a trailing newline here breaks HTTP header construction
 DAYS = int(os.environ.get("GRAPH_DAYS", "31"))
 OUT_PATH = "profile/activity-graph.svg"
 
@@ -54,7 +54,7 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 
 
 def fetch_contributions():
-    to_date = datetime.datetime.utcnow()
+    to_date = datetime.datetime.now(datetime.timezone.utc)
     from_date = to_date - datetime.timedelta(days=DAYS - 1)
     body = json.dumps(
         {
