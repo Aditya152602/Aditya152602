@@ -1,41 +1,41 @@
 <svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
   <rect width="720" height="260" rx="8" fill="#0A0E14" />
   <text x="40" y="28" font-size="16" font-weight="600" fill="#E9EDF4" font-family="Segoe UI, sans-serif">Contribution Timeline</text>
-  <text x="700" y="28" font-size="12" fill="#8B95A7" text-anchor="end" font-family="Segoe UI, sans-serif">104 contributions / 31d</text>
-  <path d="M 40.0,110.0 L 62.0,130.0 L 84.0,110.0 L 106.0,130.0 L 128.0,150.0 L 150.0,190.0 L 172.0,110.0 L 194.0,170.0 L 216.0,150.0 L 238.0,150.0 L 260.0,230.0 L 282.0,190.0 L 304.0,110.0 L 326.0,170.0 L 348.0,130.0 L 370.0,170.0 L 392.0,210.0 L 414.0,190.0 L 436.0,170.0 L 458.0,190.0 L 480.0,130.0 L 502.0,190.0 L 524.0,190.0 L 546.0,150.0 L 568.0,190.0 L 590.0,190.0 L 612.0,50.0 L 634.0,210.0 L 656.0,190.0 L 678.0,170.0 L 700.0,230.0 L 700.0,230.0 L 40.0,230.0 Z" fill="#4FD1C5" fill-opacity="0.18" stroke="none" />
-  <path d="M 40.0,110.0 L 62.0,130.0 L 84.0,110.0 L 106.0,130.0 L 128.0,150.0 L 150.0,190.0 L 172.0,110.0 L 194.0,170.0 L 216.0,150.0 L 238.0,150.0 L 260.0,230.0 L 282.0,190.0 L 304.0,110.0 L 326.0,170.0 L 348.0,130.0 L 370.0,170.0 L 392.0,210.0 L 414.0,190.0 L 436.0,170.0 L 458.0,190.0 L 480.0,130.0 L 502.0,190.0 L 524.0,190.0 L 546.0,150.0 L 568.0,190.0 L 590.0,190.0 L 612.0,50.0 L 634.0,210.0 L 656.0,190.0 L 678.0,170.0 L 700.0,230.0" fill="none" stroke="#E8A854" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-  <circle cx="40.0" cy="110.0" r="3" fill="#E9EDF4" />
-  <circle cx="62.0" cy="130.0" r="3" fill="#E9EDF4" />
-  <circle cx="84.0" cy="110.0" r="3" fill="#E9EDF4" />
-  <circle cx="106.0" cy="130.0" r="3" fill="#E9EDF4" />
-  <circle cx="128.0" cy="150.0" r="3" fill="#E9EDF4" />
-  <circle cx="150.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="172.0" cy="110.0" r="3" fill="#E9EDF4" />
-  <circle cx="194.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <text x="700" y="28" font-size="12" fill="#8B95A7" text-anchor="end" font-family="Segoe UI, sans-serif">100 contributions / 31d</text>
+  <path d="M 40.0,130.0 L 62.0,110.0 L 84.0,130.0 L 106.0,150.0 L 128.0,190.0 L 150.0,110.0 L 172.0,170.0 L 194.0,150.0 L 216.0,150.0 L 238.0,230.0 L 260.0,190.0 L 282.0,110.0 L 304.0,170.0 L 326.0,130.0 L 348.0,170.0 L 370.0,210.0 L 392.0,190.0 L 414.0,170.0 L 436.0,190.0 L 458.0,130.0 L 480.0,190.0 L 502.0,190.0 L 524.0,150.0 L 546.0,190.0 L 568.0,190.0 L 590.0,50.0 L 612.0,210.0 L 634.0,190.0 L 656.0,170.0 L 678.0,210.0 L 700.0,210.0 L 700.0,230.0 L 40.0,230.0 Z" fill="#4FD1C5" fill-opacity="0.18" stroke="none" />
+  <path d="M 40.0,130.0 L 62.0,110.0 L 84.0,130.0 L 106.0,150.0 L 128.0,190.0 L 150.0,110.0 L 172.0,170.0 L 194.0,150.0 L 216.0,150.0 L 238.0,230.0 L 260.0,190.0 L 282.0,110.0 L 304.0,170.0 L 326.0,130.0 L 348.0,170.0 L 370.0,210.0 L 392.0,190.0 L 414.0,170.0 L 436.0,190.0 L 458.0,130.0 L 480.0,190.0 L 502.0,190.0 L 524.0,150.0 L 546.0,190.0 L 568.0,190.0 L 590.0,50.0 L 612.0,210.0 L 634.0,190.0 L 656.0,170.0 L 678.0,210.0 L 700.0,210.0" fill="none" stroke="#E8A854" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="40.0" cy="130.0" r="3" fill="#E9EDF4" />
+  <circle cx="62.0" cy="110.0" r="3" fill="#E9EDF4" />
+  <circle cx="84.0" cy="130.0" r="3" fill="#E9EDF4" />
+  <circle cx="106.0" cy="150.0" r="3" fill="#E9EDF4" />
+  <circle cx="128.0" cy="190.0" r="3" fill="#E9EDF4" />
+  <circle cx="150.0" cy="110.0" r="3" fill="#E9EDF4" />
+  <circle cx="172.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <circle cx="194.0" cy="150.0" r="3" fill="#E9EDF4" />
   <circle cx="216.0" cy="150.0" r="3" fill="#E9EDF4" />
-  <circle cx="238.0" cy="150.0" r="3" fill="#E9EDF4" />
-  <circle cx="260.0" cy="230.0" r="3" fill="#E9EDF4" />
-  <circle cx="282.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="304.0" cy="110.0" r="3" fill="#E9EDF4" />
-  <circle cx="326.0" cy="170.0" r="3" fill="#E9EDF4" />
-  <circle cx="348.0" cy="130.0" r="3" fill="#E9EDF4" />
-  <circle cx="370.0" cy="170.0" r="3" fill="#E9EDF4" />
-  <circle cx="392.0" cy="210.0" r="3" fill="#E9EDF4" />
-  <circle cx="414.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="436.0" cy="170.0" r="3" fill="#E9EDF4" />
-  <circle cx="458.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="480.0" cy="130.0" r="3" fill="#E9EDF4" />
+  <circle cx="238.0" cy="230.0" r="3" fill="#E9EDF4" />
+  <circle cx="260.0" cy="190.0" r="3" fill="#E9EDF4" />
+  <circle cx="282.0" cy="110.0" r="3" fill="#E9EDF4" />
+  <circle cx="304.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <circle cx="326.0" cy="130.0" r="3" fill="#E9EDF4" />
+  <circle cx="348.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <circle cx="370.0" cy="210.0" r="3" fill="#E9EDF4" />
+  <circle cx="392.0" cy="190.0" r="3" fill="#E9EDF4" />
+  <circle cx="414.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <circle cx="436.0" cy="190.0" r="3" fill="#E9EDF4" />
+  <circle cx="458.0" cy="130.0" r="3" fill="#E9EDF4" />
+  <circle cx="480.0" cy="190.0" r="3" fill="#E9EDF4" />
   <circle cx="502.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="524.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="546.0" cy="150.0" r="3" fill="#E9EDF4" />
+  <circle cx="524.0" cy="150.0" r="3" fill="#E9EDF4" />
+  <circle cx="546.0" cy="190.0" r="3" fill="#E9EDF4" />
   <circle cx="568.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="590.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="612.0" cy="50.0" r="3" fill="#E9EDF4" />
-  <circle cx="634.0" cy="210.0" r="3" fill="#E9EDF4" />
-  <circle cx="656.0" cy="190.0" r="3" fill="#E9EDF4" />
-  <circle cx="678.0" cy="170.0" r="3" fill="#E9EDF4" />
-  <circle cx="700.0" cy="230.0" r="3" fill="#E9EDF4" />
-  <text x="40.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Aug 05</text>
-  <text x="370.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Aug 20</text>
-  <text x="700.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Sep 04</text>
+  <circle cx="590.0" cy="50.0" r="3" fill="#E9EDF4" />
+  <circle cx="612.0" cy="210.0" r="3" fill="#E9EDF4" />
+  <circle cx="634.0" cy="190.0" r="3" fill="#E9EDF4" />
+  <circle cx="656.0" cy="170.0" r="3" fill="#E9EDF4" />
+  <circle cx="678.0" cy="210.0" r="3" fill="#E9EDF4" />
+  <circle cx="700.0" cy="210.0" r="3" fill="#E9EDF4" />
+  <text x="40.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Aug 06</text>
+  <text x="370.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Aug 21</text>
+  <text x="700.0" y="252" font-size="11" fill="#8B95A7" text-anchor="middle" font-family="Segoe UI, sans-serif">Sep 05</text>
 </svg>
